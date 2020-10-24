@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c3bae5-d10c-4feb-bcce-376bd3d0c302" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.org" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commitlint-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,9 +88,9 @@
       <screen x="43" y="23" width="1637" height="1027" />
     </state>
     <state width="1595" height="477" key="GridCell.Tab.1.right/43.23.1637.1027@43.23.1637.1027" timestamp="1603548831666" />
-    <state x="526" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1603548890153">
+    <state x="526" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1603549126191">
       <screen x="43" y="23" width="1637" height="1027" />
     </state>
-    <state x="526" y="187" width="670" height="676" key="search.everywhere.popup/43.23.1637.1027@43.23.1637.1027" timestamp="1603548890153" />
+    <state x="526" y="187" width="670" height="676" key="search.everywhere.popup/43.23.1637.1027@43.23.1637.1027" timestamp="1603549126191" />
   </component>
 </project>
