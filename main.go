@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("vim-go")
+	fmt.Println("neovim-go")
+
 	MaxLongHuiWen("abccccdd")
 }
 
@@ -33,6 +34,26 @@ func TwoNumsAdd() {
 // 单调数列
 // array [6,5,2,2] true
 func MonotonicSequence() {
+
+}
+
+// ArrayRepeat ...
+// 给定一个数组，判断是否有重复元素,如果没有一个重复的就返回false否则就返回true
+// 思路:
+//      1、从头进行开始循环挨个判断,效率比较低。
+//      2、从头开始循环，但是第一个跟第二个，第二个跟第一个，第三个跟第一个，依次类推。有重复的就返回false
+
+func ArrayRepeat() {
+
+}
+
+// RansomLetter ...
+// a b false
+// aa ab false
+// aa aad true
+// 思路:
+//      1、
+func RansomLetter() {
 
 }
 
