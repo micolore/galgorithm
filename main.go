@@ -57,6 +57,12 @@ func RansomLetter() {
 
 }
 
+// VirtualStack  ...
+// 模拟栈 实现push、pop 、top、getMin等方法
+func VirtualStack() {
+
+}
+
 // DelSliceRune ... delete slice
 func DelSliceRune(src []interface{}, index int) []interface{} {
 	return append(src[:index], src[index+1:]...)
