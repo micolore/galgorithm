@@ -63,6 +63,12 @@ func VirtualStack() {
 
 }
 
+// SplicingStr ...
+// 给定一个字符串，在指定的字符串里面拼接，返回最多可以拼几个。
+func SplicingStr() {
+
+}
+
 // DelSliceRune ... delete slice
 func DelSliceRune(src []interface{}, index int) []interface{} {
 	return append(src[:index], src[index+1:]...)
